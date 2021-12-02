@@ -1,0 +1,10 @@
+[context.pub]
+  command = "npm run build"
+  publish = "dist"
+  NODE_VERSION = 12
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
