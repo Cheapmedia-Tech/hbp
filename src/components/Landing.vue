@@ -201,9 +201,11 @@
           <br />
           <br />
 
-          <span class="italic font-semibold text-hblue ">With all my money, there is nothing I can do to just be free from
+          <span class="italic font-semibold text-hblue "
+            >With all my money, there is nothing I can do to just be free from
             this. What about people that can't afford the best services, like
-            you are giving me.</span>
+            you are giving me.</span
+          >
           <br />
           <br />
 
@@ -239,7 +241,9 @@
           <br />
           <br />
 
-          <span class="font-medium text-hblue text-2xl">Just NGN 3,000 for something that works.</span>
+          <span class="font-medium text-hblue text-2xl"
+            >Just NGN 3,000 for something that works.</span
+          >
           <br />
           <br />
 
@@ -283,8 +287,10 @@
 
           No. You cannot allow this.
         </h2>
+      </div>
+    </section>
 
-         <div class="mt-5 w-full text-center">
+     <div class="mt-5 px-3 w-full text-center">
         <a href="#order-form">
           <button
             class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
@@ -294,54 +300,6 @@
           </button>
         </a>
       </div>
-
-        <h2 class="mt-5 text-2xl font-semibold text-hblue">
-          We have so many testimonials we can share.
-        </h2>
-
-        <h2 class="mt-3">
-          We can only put out a few. <br /><br />
-          See what our clients have said.
-        </h2>
-
-
-
-        <h2 class="mt-3 font-medium text-xl text-hblue">
-          And there are even many more
-          <br />
-
-          Don't delay to get this. Particularly at its discounted price.
-          <br />
-          <br />
-
-          Place your order now
-        </h2>
-
-        <div class="mt-5 w-full text-center">
-          <a href="#order-form">
-            <button
-              class="shadow-lg rounded-md w-full px-2 bg-hblue py-3 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
-            >
-              I want the ebook + training videos<br />
-              <span class="text-xs">(for just NGN 3,000)</span>
-            </button>
-          </a>
-        </div>
-
-
-      </div>
-    </section>
-
-    <div class="mt-5 w-full text-center">
-      <a href="#order-form">
-        <button
-          class="shadow-lg rounded-md w-full px-2 bg-hblue py-3 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
-        >
-          I want the ebook + training videos<br />
-          <span class="text-xs">(for just NGN 3,000)</span>
-        </button>
-      </a>
-    </div>
 
     <!-- STICKY CTA -->
     <!-- <div class="sticky mt-5 lg:static bottom-0 flex justify-center">
@@ -378,15 +336,6 @@
         </button>
       </a>
     </div> -->
-
-    <!-- TESTIMONIAL -->
-    <div class="text-center mt-6 mx-auto">
-      <img
-        src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1635553478/eugel/testimonials/bauchi-testimonial_quwtxv.png"
-        alt="testimonial-1"
-        class="mx-auto"
-      />
-    </div>
 
     <!-- <section id="order-form" class="mt-3  px-8 py-5 text-left text-gray-800">
       <h1 class="mt-5 text-4xl font-bold">
@@ -565,7 +514,6 @@
       </div>
     </section> -->
   </div>
-  
 </template>
 
 <script>
