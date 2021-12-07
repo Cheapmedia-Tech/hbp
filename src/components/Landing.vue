@@ -21,27 +21,66 @@
         class="mt-4 px-3 text-center text-2xl font-medium text-gray-600 leading-tight"
       >
         The Easiest, Simplest and Most Effective Fitness Plan to Reverse and
-        Prevent High Blood Pressure for just NGN 3,000.
+        Prevent High Blood Pressure for just NGN 2,000.
       </p>
 
       <div class=" px-3 mt-4 text-center  mx-auto">
         <img
-          src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638441451/hbp/hbp-banner_normrv.png"
+          src="../assets/img/eazifit-ipad-book.png"
           alt="eugel-banner"
           class="mx-auto"
         />
       </div>
 
-      <div class="mt-5 px-3 w-full text-center">
+      <div class="-mt-8 px-3 w-full text-center">
         <a href="#order-form">
           <button
             class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
           >
             get the ebook + training videos<br />
-            <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
+            <!-- <span class="text-xs">(for just NGN 2,000)</span> -->
           </button>
         </a>
       </div>
+    </section>
+
+    <section id="who-book-for" class="bg-hblue text-white mt-8 px-5 py-6">
+      <!-- <div class="">
+        <img src="../assets/img/coach-john.png" class="w-1/3 mx-auto" alt="" />
+      </div> -->
+      <h2 class="font-semibold text-2xl text-center">
+        Why you need this Book now
+      </h2>
+
+      <p class="mt-4 text-">
+        <span class="text-">
+          HBP is the most common and most dangerous illness out there.
+          <br />
+          <br />
+          It has been stated that as much as 70% of adult population suffer from
+          it. Some are not even aware.
+          <br />
+          <br />
+          Some are not dealing with it decisively but allowing it to destroy
+          their body.
+          <br />
+          <br />
+          Some are using the wrong things such as herbal teas and medications,
+          which doctors will tell you are not the real solution.
+          <br />
+          <br />
+          You need a real solution because HBP will cause you:
+          <ul class="font-semibold list-disc pl-4">
+            <li>Heart attack or stroke</li>
+            <li>Dementia</li>
+            <li>Heart failure</li>
+            <li>Aneurysm</li>
+            <li>Weakened and narrowed blood vessels in your kidneys</li>
+            <li>Thickened, narrowed or torn blood vessels in the eyes</li>
+            <li>Metabolic syndrome</li>
+          </ul>
+        </span>
+      </p>
     </section>
 
     <section id="landing-section" class="text-left px-3  text-gray-800 ">
@@ -50,11 +89,6 @@
       <div class="font text-lg">
         <!-- PAIN IMAGE -->
 
-        <h2 class="mt-3 ">
-          You may have suffered the terrible effects and symptoms of High Blood
-          Pressure.
-        </h2>
-
         <div class="text-center mt-3 mx-auto border-2 border-gray-300">
           <img
             src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638410402/hbp/self-diag-hbp_mfw5r8.png"
@@ -62,38 +96,6 @@
             class="mx-auto"
           />
         </div>
-        <h2 class="mt-3  italic ">
-          You may think your lifespan is being cut short because of this
-          terrible illness.
-        </h2>
-
-        <!-- PAIN IMAGE -->
-        <!-- <div class="text-center mt-3 mx-auto border-2 border-gray-300">
-          <img
-            src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1635812345/eugel/woman-in-pain_wx2jud.png"
-            alt="testimonial-1"
-            class="mx-auto"
-          />
-        </div> -->
-        <h2 class="mt-3   ">
-          We know HBP is the most terrible adult illness out there.
-        </h2>
-
-        <h2 class="mt-3   ">
-          Yes, but there is a solution.
-        </h2>
-        <!-- eating IMAGE -->
-        <!-- <div class="text-center mt-3 mx-auto border-2 border-gray-300">
-          <img
-            src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638405215/hbp/hbp-banner_fb5yzr.png"
-            alt="testimonial-1"
-            class="mx-auto"
-          />
-        </div> -->
-        <h2 class="mt-3  italic ">
-          And it is not a herbal tea or drug that give you fake promises at a
-          high cost.
-        </h2>
 
         <div class="mt-5  mb-3 w-full text-center">
           <a href="#order-form">
@@ -101,33 +103,138 @@
               class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
             >
               get the ebook + training videos<br />
-              <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
+              <!-- <span class="text-xs">(for just NGN 2,000)</span> -->
             </button>
           </a>
         </div>
+      </div>
+    </section>
 
-        <h2 class="mt-3">
-          It is the old-time solution that has proved effective for many
-          generations to date:
-        </h2>
-        <h2 class="mt-3 uppercase font-semibold text-2xl text-hblue">
-          fitness
-        </h2>
+    <section id="who-book-for" class="text-gray-800 mt-5 px-3">
+      <h2 class="font-semibold text-2xl text-center">
+        The Only <span class="text-hgreen">True Solution</span> to HBP
+      </h2>
 
-        <h2 class="mt-3 text-hgreen  italic font-medium">
-          This special offer is only for this week and only for 50 people.
-        </h2>
-        <h2 class="mt-3   ">
-          Not the difficult and impossible one.
-        </h2>
-        <h2 class="mt-3   ">
-          No. This is in stages. From the laziest stage to the diligent stage.
-        </h2>
+      <div class="mt-4 text-">
+        <p class="text-">
+          HBP is a lifestyle condition and the only real solution is
+          <span class="font-semibold uppercase text-lg text-hblue">Fitness</span
+          >.
+          <br />
+          <br />
+          It is not only the real solution it is the fastest and in fact the
+          easiest.
+          <br />
+          <br />
+          This Book is designed to take you through a fitness plan that would be
+          so easy, you will be having fun while at it.
+          <br />
+          <br />
+          Also, we will give you an explanatory video to guide you every step of
+          the way in your journey.
+          <br />
+          <br />
+          Asides this, you will get a bonus of a nutrition plan and access to
+          our exclusive support group on Facebook to help you stay accountable
+          and encouraged.
+        </p>
+      </div>
+    </section>
 
-        <h2 class="mt-3 ">
-          We guide you Patiently making you realise Fitness can be easy.
-        </h2>
-        <h2 class="mt-3   ">
+    <section
+      id="coach-intro"
+      class="bg-hblue text-white mt-5 px-5 py-6 text-center"
+    >
+      <div class="">
+        <img src="../assets/img/coach-john.png" class="w-1/3 mx-auto" alt="" />
+      </div>
+      <p class="mt-5">
+        Hi, I am John Afolabi, a certified fitness expert who earned a degree in
+        Physical and Health Education from the prestigious Obafemi Awolowo
+        University and have gone on to earn several more certifications in
+        fitness, physical health and nutrition.
+        <br />
+        <br />
+        I have also worked and continue to work in gyms and personal coaching
+        sessions to help people achieve their fitness and health goals.
+      </p>
+    </section>
+    <!-- <div class="mt-5 px-3  mb-3 w-full text-center">
+      <a href="#order-form">
+        <button
+          class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+        >
+          get the ebook + training videos<br />
+        </button>
+      </a>
+    </div> -->
+
+    <section id="who-book-for" class="text-gray-800 mt-5 px-3">
+      <h2 class="font-semibold text-2xl text-center">
+        How to know if you are suffering from HBP silently
+      </h2>
+
+      <div class="mt-4 text-">
+          <div class="text-center mt-3 mx-auto border-2 border-gray-300">
+          <img
+            src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638889821/hbp/readings-chart_isutu4.jpg"
+            alt="testimonial-1"
+            class="mx-auto"
+          />
+        </div>
+
+        <p class="mt-2">
+          High blood pressure is often symptomless and has been labeled a “silent killer.” If you
+          ignore your blood pressure because you think a certain symptom
+          will alert you to the problem, you are taking a dangerous chance with
+          your life.
+          <br>
+          <br>
+          You should do regular checkups at a health facility to ensure your blood pressure is within the healthy range.
+          <br />
+          <br />
+          However, the following symptoms may be related to or indicate a need to check your blood pressure:
+          <ul class="list-disc pl-4">
+            <li>
+                Dizziness
+            </li>
+            <li>
+                Nervousness
+            </li>
+            <li>
+                Sweating
+            </li>
+            <li>
+                Trouble sleeping
+            </li>
+            <li>
+                Facial flushing
+            </li>
+            <li>
+                Blood spots in eyes
+            </li>
+          </ul>
+        </p>
+      </div>
+    </section>
+
+    <div class="mt-5 px-3 mb-3 w-full text-center">
+      <a href="#order-form">
+        <button
+          class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+        >
+          get the ebook + training videos<br />
+        </button>
+      </a>
+    </div>
+
+    <section class="px-3 mt-6">
+
+      <h2 class="font-semibold text-2xl text-hblue text-center">
+        Why Did We Create the <span class="text-hgreen">HBP Fitness Plan?</span>
+      </h2>
+      <div>
+                <h2 class="mt-3   ">
           As a certified fitness coach, I have watched many clients approach me
           after recommendation from their physician to immediately start a
           fitness plan if they don't want to lose their lives.
@@ -227,79 +334,235 @@
           through it without knowing.
           <br />
           <br />
-
-          <p class="mt-3 text-2xl font-semibold text-hblue">
-            You cannot afford to be ignorant of this silent killer.
-          </p>
-          <br />
-
-          And you cannot afford not to act about it immediately.
-          <br />
-          <br />
-
-          That's why we are giving this at a giveaway price.
-          <br />
-          <br />
-
-          <span class="font-medium text-hblue text-2xl"
-            >Just NGN 3,000 for something that works.</span
-          >
-          <br />
-          <br />
-
-          Not NGN 10,000 above for many fake products that don't work.
-          <br />
-          <br />
-
-          This offer won't always be available.
-          <br />
-          <br />
-
-          Grab it now.
-          <br />
-          <br />
-
-          We have several testimonies. Too many. Of those who by our
-          recommendation are now enjoying freedom.
-          <br />
-          <br />
-
-          We used to offer it as a private service in our fitness centre.
-          <br />
-          <br />
-
-          But now we want everybody to have it.
-
-          <br />
-          <br />
-
-          See some of the successes. And notice how easy it has been for all of
-          them.
-
-          <br />
-          <br />
-
-          You cannot afford to keep watching and allowing HBP to ruin your life
-          or of those you love.
-
-          <br />
-          <br />
-
-          No. You cannot allow this.
         </h2>
       </div>
     </section>
 
-     <div class="mt-5 px-3 w-full text-center">
-        <a href="#order-form">
-          <button
-            class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
-          >
-            get the ebook + training videos<br />
-            <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
-          </button>
-        </a>
+    <section id="landing-section" class="text-left px-3  text-gray-800 ">
+      <h2 class="mt-3">
+        <p class="text-2xl font-semibold text-hblue">
+          You cannot afford to be ignorant of this silent killer.
+        </p>
+        <br />
+
+        And you cannot afford not to act about it immediately.
+        <br />
+        <br />
+
+        That's why we are giving this at a giveaway price.
+        <br />
+        <br />
+
+        <span class="font-medium text-hblue text-2xl"
+          >Just NGN 2,000 for something that works.</span
+        >
+        <br />
+        <br />
+
+        Not NGN 10,000 above for many fake products that don't work.
+        <br />
+        <br />
+
+        This offer won't always be available.
+        <br />
+        <br />
+
+        Grab it now.
+      </h2>
+    </section>
+
+    <section
+      id="who-book-for"
+      class="bg-hblue text-white mt-4 px-5 py-6 text-center"
+    >
+      <!-- <div class="">
+        <img src="../assets/img/coach-john.png" class="w-1/3 mx-auto" alt="" />
+      </div> -->
+      <h2 class="font-semibold text-2xl">Who is this book for?</h2>
+
+      <div class=" px-3 text-center  mx-auto">
+        <img
+          src="../assets/img/book-ipad-interior.png"
+          alt="eugel-banner"
+          class="mx-auto"
+        />
       </div>
+
+      <p class="-mt-4">
+        I have specifically written this because of the great concern I have
+        seen HBP has become for many young and old people.
+        <br />
+        <br />
+        So this book is for the following:
+
+        <br />
+        <br />
+        <span class="font-semibold text-lg">
+          Those who already have High Blood Pressure
+          <br />
+          <br />
+          Those who have had HBP in the past, and don't want a reversal of it.
+          <br />
+          <br />
+          Those who have a family history of HBP
+          <br />
+          <br />
+          Those who know that HBP is a very common lifestyle disease and want to
+          avoid it.
+        </span>
+      </p>
+    </section>
+
+    <section id="who-book-for" class="text-gray-800 mt-5 px-5 pt-6 text-center">
+      <!-- <div class="">
+        <img src="../assets/img/coach-john.png" class="w-1/3 mx-auto" alt="" />
+      </div> -->
+      <h2 class="font-semibold text-3xl">
+        Get this book <span class="text-hgreen">RISK FREE! </span>
+      </h2>
+      <div class="mt-5 text-lg">
+        <p class="font-semibold text-lg text-center px-8">
+          Purchase this now at 60% Discount and you will have 14 days money back
+          guarantee, if you find out it was a waste of money.
+        </p>
+      </div>
+    </section>
+
+    <section
+      id="who-book-for"
+      class="bg-hblue text-white mt-5 px-5 py-6 text-center"
+    >
+      <!-- <div class="">
+        <img src="../assets/img/coach-john.png" class="w-1/3 mx-auto" alt="" />
+      </div> -->
+      <h2 class="font-semibold text-2xl">What this Book Covers:</h2>
+
+      <div class="mt-3 px-3 text-center  mx-auto">
+        <img
+          src="../assets/img/eazifit-ipad-book-interior-2.png"
+          alt="eugel-banner"
+          class="mx-auto w-2/3"
+        />
+      </div>
+
+      <p class="mt-4 text-lg">
+        This book is sure to:
+
+        <br />
+        <br />
+        <span class="font-semibold text-lg">
+          Help you recover fast from HBP and its symptoms
+          <br />
+          <br />
+          Teach you how to permanently avoid any occurrence of High Blood
+          Pressure
+          <br />
+          <br />
+          Help you develop lifestyle habits to stay healthy
+          <br />
+          <br />
+          <!-- Those who know that HBP is a very common lifestyle disease and want to
+          avoid it. -->
+        </span>
+      </p>
+    </section>
+
+    <section id="who-book-for" class="text-gray-800 mt-5 px-5 pt-6 text-center">
+      <!-- <div class="">
+        <img src="../assets/img/coach-john.png" class="w-1/3 mx-auto" alt="" />
+      </div> -->
+      <h2 class="font-semibold text-2xl">
+        Get these <span class="text-hgreen">FREE Bonuses</span> when you buy the
+        Book:
+      </h2>
+
+      <div class="mt-3 px-3 text-center  mx-auto">
+        <img
+          src="../assets/img/eazifit-ipad-book.png"
+          alt="eugel-banner"
+          class="mx-auto "
+        />
+      </div>
+
+      <div class="-mt-4 text-lg">
+        <p class="font-semibold text-lg text-center px-8">
+          <img src="../assets/img/svg/video.svg" class="mx-auto" alt="" />
+          Explanatory Videos
+          <br />
+          <br />
+          <img src="../assets/img/svg/eat.svg" class="mx-auto" alt="" />
+          A Comprehensive Nutrition Guide for beating HBP
+          <br />
+          <br />
+
+          <img src="../assets/img/svg/group.svg" class="mx-auto" alt="" />
+
+          Access to a private Facebook group for support and accountability
+          <br />
+
+          <br />
+          <img src="../assets/img/svg/myth.svg" class="mx-auto" alt="" />
+
+          HBP Fitness Myth Busters
+          <!-- Those who know that HBP is a very common lifestyle disease and want to
+          avoid it. -->
+        </p>
+      </div>
+    </section>
+
+    <div class="py-6 px-3 w-full text-center">
+      <a href="#order-form">
+        <button
+          class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+        >
+          get the ebook + training videos<br />
+          <!-- <span class="text-xs">(for just NGN 2,000)</span> -->
+        </button>
+      </a>
+    </div>
+
+    <section id="landing-section" class="text-left px-3  text-gray-800 ">
+      <h2 class="mt-3">
+        We have several testimonies. Too many. Of those who by our
+        recommendation are now enjoying freedom.
+        <br />
+        <br />
+
+        We used to offer it as a private service in our fitness centre.
+        <br />
+        <br />
+
+        But now we want everybody to have it.
+
+        <br />
+        <br />
+
+        See some of the successes. And notice how easy it has been for all of
+        them.
+
+        <br />
+        <br />
+        <span class="mt-3">
+          You cannot afford to keep watching and allowing HBP to ruin your life
+          or of those you love.
+        </span>
+        <br />
+        <br />
+
+        No. You cannot allow this.
+      </h2>
+    </section>
+
+    <div class="mt-5 px-3 w-full text-center">
+      <a href="#order-form">
+        <button
+          class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+        >
+          get the ebook + training videos<br />
+          <!-- <span class="text-xs">(for just NGN 2,000)</span> -->
+        </button>
+      </a>
+    </div>
 
     <!-- STICKY CTA -->
     <!-- <div class="sticky mt-5 lg:static bottom-0 flex justify-center">
