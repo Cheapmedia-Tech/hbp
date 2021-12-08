@@ -9,30 +9,15 @@
     </div>
 
     <section id="hero-section">
-      <h1
-        class="px-3 mt-12 mb-2 text-hblue text-4xl text-center font-bold tracking-tight leading-tight"
-      >
-        You have just found the
-        <span class="text-hgreen">Cheapest and Fastest Solution</span> to High
-        Blood Pressure!
-      </h1>
-
-      <p
-        class="mt-4 px-3 text-center text-2xl font-medium text-gray-600 leading-tight"
-      >
-        The Easiest, Simplest and Most Effective Fitness Plan to Reverse and
-        Prevent High Blood Pressure for just NGN 2,000.
-      </p>
-
-      <div class=" px-3 mt-4 text-center  mx-auto">
+      <div class=" px-3 mt-6 text-center  mx-auto">
         <img
-          src="../assets/img/eazifit-ipad-book.png"
+          src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638953358/hbp/lp-banner_iazehz.png"
           alt="eugel-banner"
           class="mx-auto"
         />
       </div>
 
-      <div class="-mt-8 px-3 w-full text-center">
+      <div class="mt-8 px-3 w-full text-center">
         <a href="#order-form">
           <button
             class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
@@ -146,7 +131,7 @@
       class="bg-hblue text-white mt-5 px-5 py-6 text-center"
     >
       <div class="">
-        <img src="../assets/img/coach-john.png" class="w-1/3 mx-auto" alt="" />
+        <img src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638954573/hbp/john-fitness-profile_mtfnne.png" class="  mx-auto" alt="" />
       </div>
       <p class="mt-5">
         Hi, I am John Afolabi, a certified fitness expert who earned a degree in
@@ -380,15 +365,15 @@
       </div> -->
       <h2 class="font-semibold text-2xl">Who is this book for?</h2>
 
-      <div class=" px-3 text-center  mx-auto">
+      <div class=" px-3 mt-4 text-center  mx-auto">
         <img
-          src="../assets/img/book-ipad-interior.png"
+          src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638954013/hbp/eazifit-ipad-book-exercisers_geqr7q.png"
           alt="eugel-banner"
-          class="mx-auto"
+          class="mx-auto w-2/3"
         />
       </div>
 
-      <p class="-mt-4">
+      <p class="mt-4">
         I have specifically written this because of the great concern I have
         seen HBP has become for many young and old people.
         <br />
@@ -439,7 +424,7 @@
 
       <div class="mt-3 px-3 text-center  mx-auto">
         <img
-          src="../assets/img/eazifit-ipad-book-interior-2.png"
+          src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638953879/hbp/eazifit-ipad-book-outline_zryyh0.png"
           alt="eugel-banner"
           class="mx-auto w-2/3"
         />
@@ -451,14 +436,16 @@
         <br />
         <br />
         <span class="font-semibold text-lg">
-          Help you recover fast from HBP and its symptoms
+          Learn what HBP is and why it is so deadly
           <br />
           <br />
-          Teach you how to permanently avoid any occurrence of High Blood
-          Pressure
+          Learn how to lower the risks for this disease through lifestyle adjustments
           <br />
           <br />
-          Help you develop lifestyle habits to stay healthy
+          Learn what the consequences of this disease are and how to deal with them
+          <br />
+          <br />
+          Learn how to get started on a fitness journey for ZERO HBP
           <br />
           <br />
           <!-- Those who know that HBP is a very common lifestyle disease and want to
@@ -602,14 +589,8 @@
 
     <!-- <section id="order-form" class="mt-3  px-8 py-5 text-left text-gray-800">
       <h1 class="mt-5 text-4xl font-bold">
-        Order now at 37.5% Discount + Bonus of
-        <span class="text-hblue">FREE Delivery</span> to your Doorstep.
+        Fill your Details Below
       </h1>
-
-      <h2 class="mt-3 text-2xl font-semibold underline uppercase">
-        Be sure you are ready to RECEIVE it and PAY within the next
-        <span class="text-hblue">1-4 days</span>
-      </h2>
 
       <div
         class="
@@ -764,14 +745,30 @@
             </div>
           </div>
           <div class="mt-7 px-2 w-full text-center">
-            <button
-              type="submit"
-              class="
-              shadow-lg rounded-md w-full px-2 bg-hblue py-3 text-white text-center font-semibold uppercase text-lg tracking-wide leading-tight"
-              @click="submitForm"
-            >
-              Place Order now
-            </button>
+            <div> -->
+    <!-- <flutterwave-pay-button
+        :tx_ref="generateReference()"
+        :amount=20
+        currency='NGN'
+        payment_options="card,ussd"
+        redirect_url=""
+        class="class-name"
+        style=""
+        :meta="{counsumer_id: '7898' ,consumer_mac: 'kjs9s8ss7dd' }"
+        :customer="{ name: 'Demo Customer  Name',
+        email: 'customer@mail.com',
+        phone_number: '0818450****' }"
+        :customizations="{  title: 'Customization Title' ,
+        description: 'Customization Description'  ,
+        logo : 'https://flutterwave.com/images/logo-colored.svg' }"
+        :callback="makePaymentCallback"
+        :onclose="closePaymentCallback"
+    >
+
+    Click To Pay
+
+    </flutterwave-pay-button> -->
+  <!-- </div>
           </div>
         </form>
       </div>
