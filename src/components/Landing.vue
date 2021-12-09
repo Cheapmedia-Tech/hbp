@@ -18,7 +18,7 @@
       </div>
 
       <div class="mt-8 px-3 w-full text-center">
-        <a href="#order-form">
+        <a href="/pay">
           <button
             class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
           >
@@ -83,7 +83,7 @@
         </div>
 
         <div class="mt-5  mb-3 w-full text-center">
-          <a href="#order-form">
+          <a href="/pay">
             <button
               class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
             >
@@ -145,7 +145,7 @@
       </p>
     </section>
     <!-- <div class="mt-5 px-3  mb-3 w-full text-center">
-      <a href="#order-form">
+      <a href="/pay">
         <button
           class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
@@ -204,7 +204,7 @@
     </section>
 
     <div class="mt-5 px-3 mb-3 w-full text-center">
-      <a href="#order-form">
+      <a href="/pay">
         <button
           class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
@@ -498,7 +498,7 @@
     </section>
 
     <div class="py-6 px-3 w-full text-center">
-      <a href="#order-form">
+      <a href="/pay">
         <button
           class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
@@ -541,7 +541,7 @@
     </section>
 
     <div class="mt-5 px-3 w-full text-center">
-      <a href="#order-form">
+      <a href="/pay">
         <button
           class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
@@ -550,229 +550,6 @@
         </button>
       </a>
     </div>
-
-    <!-- STICKY CTA -->
-    <!-- <div class="sticky mt-5 lg:static bottom-0 flex justify-center">
-      <a href="#order-form" class="lg:w-8/12 w-full mx-auto">
-        <button
-          class="
-            px-1
-            lg:px-12
-            py-3
-            sm:py-4
-            lg:py-6
-            w-full
-            lg:rounded-2xl
-            bg-hblue
-            text-white
-            shadow-button
-            tracking-tight
-            font-semibold
-            uppercase
-            text-sm
-            sm:text-lg
-            lg:text-2xl
-            xl:text-4xl
-            lg:transform
-            hover:-translate-y-2
-            transition
-            duration-1000
-            ease-in-out
-            focus:outline-none
-          "
-        >
-          Click here to order now to claim 37.5% Discount & Free delivery.
-          Limited Time Offer.
-        </button>
-      </a>
-    </div> -->
-
-    <!-- <section id="order-form" class="mt-3  px-8 py-5 text-left text-gray-800">
-      <h1 class="mt-5 text-4xl font-bold">
-        Fill your Details Below
-      </h1>
-
-      <div
-        class="
-        w-full
-        font-graphik
-      "
-      >
-        <div class="w-10/12 mt-8 text-">
-          <h4 class="text-">
-            <span class="font-medium"
-              ><u>Pay NGN 12,500 for 1 bottle</u> (instead of NGN 20,000 at
-              37.5% discount)
-            </span>
-          </h4>
-          <br />
-          <h4 class="text-">
-            <span class="font-medium"
-              ><u>Pay NGN 20,000 for 2 bottles</u> (instead of NGN 40,000 at 50%
-              discount)</span
-            >
-          </h4>
-        </div>
-
-        <hr class="mt-5 border-register-border" />
-
-        <form @submit.prevent="submitForm" class="mt-5">
-          <div class="flex flex-wrap justify-between">
-            <div class="flex flex-col w-full lg:w-6/12 lg:pr-3">
-              <label for="first_name" class="ml-1"
-                >First Name<span class="text-hblue">*</span></label
-              >
-              <input
-                type="text"
-                id="first_name"
-                class="input border-2 py-1 px-2"
-                v-model="firstname"
-                placeholder="Your first name"
-                required
-              />
-            </div>
-
-            <div class="flex flex-col lg:pl-3 w-full lg:w-6/12 mt-5 lg:mt-0">
-              <label for="last_name" class="ml-1"
-                >Last Name<span class="text-hblue">*</span></label
-              >
-              <input
-                type="text"
-                id="last_name"
-                class="input border-2 py-1 px-2"
-                v-model="lastname"
-                placeholder="Your last name"
-                required
-              />
-            </div>
-
-            <div class="flex flex-col w-full lg:w-6/12 lg:pr-3 mt-5">
-              <label for="phone_number" class="ml-1"
-                >Active Phone Number<span class="text-hblue">*</span></label
-              >
-              <input
-                type="text"
-                id="phone_number"
-                class="input border-2 py-1 px-2"
-                v-model="phone_number"
-                placeholder="Your main phone number"
-                required
-              />
-            </div>
-
-            <div class="flex flex-col w-full lg:w-6/12 mt-5">
-              <label for="alt_phone_number" class="ml-1"
-                >Alternate Phone Number<span class="text-hblue">*</span></label
-              >
-              <input
-                type="text"
-                id="alt_phone_number"
-                class="input border-2 py-1 px-2"
-                v-model="alt_phone_number"
-                placeholder="Write 'nil' if none available"
-              />
-            </div>
-
-            <div class="flex flex-col w-full lg:w-6/12 mt-5">
-              <label for="email" class="ml-1"
-                >Email<span class="text-hblue">*</span></label
-              >
-              <input
-                type="text"
-                id="email"
-                class="input border-2 py-1 px-2"
-                v-model="email"
-                placeholder="Enter your email address"
-              />
-            </div>
-
-            <div class=" w-full lg:w-6/12 mt-5">
-              <p>
-                Choose number of bottles to order<span class="text-hblue"
-                  >*</span
-                >
-              </p>
-              <input
-                type="radio"
-                id="1_bottle"
-                name="quantity"
-                value="1"
-                class="input border-2 py-1 px-2"
-                v-model="quantity"
-              />
-              <label for="1_bottle" class="ml-1">1 bottle</label>
-              <br />
-              <input
-                type="radio"
-                id="2_bottles"
-                name="quantity"
-                value="2"
-                class="input border-2 py-1 px-2"
-                v-model="quantity"
-              />
-              <label for="2_bottles" class="ml-1">2 bottles</label>
-            </div>
-
-            <div class="flex flex-col w-full mt-5">
-              <label for="address" class=""
-                >Address<span class="text-hblue">*</span></label
-              >
-              <p class="text-sm italic text-gray-700 mb-2">
-                Put the full address where you want to receive your products
-                (including landmarks, LGA, City and State)
-              </p>
-              <textarea
-                type="text"
-                id="address"
-                class="input h-24 p-2 border-2 font-medium"
-                v-model="address"
-                placeholder="Your delivery address"
-                required
-              />
-            </div>
-
-            <div class="flex flex-row w-full lg:w-full mt-5">
-              <input
-                type="checkbox"
-                id="consent"
-                class="input inline border-2"
-                v-model="consent"
-                unchecked
-              /><span class="text-sm ml-2 text-gray-800"
-                >Yes, I'm okay with the delivery arrangement and I'm also ready
-                with the funds to pay on delivery.</span
-              >
-            </div>
-          </div>
-          <div class="mt-7 px-2 w-full text-center">
-            <div> -->
-    <!-- <flutterwave-pay-button
-        :tx_ref="generateReference()"
-        :amount=20
-        currency='NGN'
-        payment_options="card,ussd"
-        redirect_url=""
-        class="class-name"
-        style=""
-        :meta="{counsumer_id: '7898' ,consumer_mac: 'kjs9s8ss7dd' }"
-        :customer="{ name: 'Demo Customer  Name',
-        email: 'customer@mail.com',
-        phone_number: '0818450****' }"
-        :customizations="{  title: 'Customization Title' ,
-        description: 'Customization Description'  ,
-        logo : 'https://flutterwave.com/images/logo-colored.svg' }"
-        :callback="makePaymentCallback"
-        :onclose="closePaymentCallback"
-    >
-
-    Click To Pay
-
-    </flutterwave-pay-button> -->
-  <!-- </div>
-          </div>
-        </form>
-      </div>
-    </section> -->
   </div>
 </template>
 

@@ -1,18 +1,16 @@
 <template>
   <div id="app">
-    <Landing />
+    <router-view />
     <Footer />
   </div>
 </template>
 
 <script>
-import Landing from "./components/Landing.vue";
 import Footer from "./components/Footer.vue";
 
 export default {
   name: "App",
   components: {
-    Landing,
     Footer,
   },
 };
