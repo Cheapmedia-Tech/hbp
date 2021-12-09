@@ -4,14 +4,20 @@
   >
     <!-- SECTION 1: Landing Section -->
 
+
+
     <div class="text-right mt-4">
       <img src="../assets/img/eazifit-logotype.svg" class="mx-auto w-1/3" />
     </div>
 
+      <h2 class="px-3 mt-4 font-semibold text-3xl text-center text-gray-800">
+        You have just found the <span class="text-hgreen">Cheapest & Fastest Solution</span> to High Blood Pressure!
+      </h2>
+
     <section id="hero-section">
-      <div class=" px-3 mt-6 text-center  mx-auto">
+      <div class=" px-3 mt-4 text-center  mx-auto">
         <img
-          src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638953358/hbp/lp-banner_iazehz.png"
+          src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1639071730/hbp/lp-banner_qaamp2.png"
           alt="eugel-banner"
           class="mx-auto"
         />
@@ -34,7 +40,7 @@
         <img src="../assets/img/coach-john.png" class="w-1/3 mx-auto" alt="" />
       </div> -->
       <h2 class="font-semibold text-2xl text-center">
-        Why you need this Book now
+        Why you need to deal with HBP right now
       </h2>
 
       <p class="mt-4 text-">
@@ -424,9 +430,9 @@
 
       <div class="mt-3 px-3 text-center  mx-auto">
         <img
-          src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638953879/hbp/eazifit-ipad-book-outline_zryyh0.png"
+          src="https://res.cloudinary.com/dq6iuhnpr/image/upload/q_auto:good/v1639072070/hbp/eazifit-ipad-book-outline_ygllta.png"
           alt="eugel-banner"
-          class="mx-auto w-2/3"
+          class="mx-auto w-3/4"
         />
       </div>
 

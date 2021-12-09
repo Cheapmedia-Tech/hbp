@@ -76,18 +76,24 @@
           <hr class="mt-4" />
 
           <h2 class="mt-3 text-center leading-normal">
+           <p class="font-semibold mt-2">Bank</p>
+            <p class="-mt-1">Access Bank</p>
+
+
+            <h2 class="font-medium  text-center leading-tight mt-2">
+            Account number
+          </h2>
+          <p id="acc">0809292464</p>
+
+
             <p class="font-semibold mt-2">Account Name</p>
             Hackney Digitech Company Ltd <br />
             (Current Account)
 
-            <p class="font-semibold mt-2">Bank</p>
-            Access Bank
+
           </h2>
 
-          <h2 class="font-medium  text-center leading-tight mt-2">
-            Account number
-          </h2>
-          <p id="acc">0809292464</p>
+
 
           <button
             class="mt-4 shadow-lg rounded-md w-11/12 text-sm px-2 bg-gray-600 py-3 text-white text-center font-medium uppercase  leading-tight tracking-wide"
@@ -98,13 +104,13 @@
             Copy Account Number
           </button>
 
-          <a href="https://wa.me/2347038506590">
+          <a href="https://wa.me/2349058337546">
             <button
-              class="mt-3 shadow-lg rounded-md w-11/12 text-sm px-2 bg-green-400 py-3 text-white text-center font-medium uppercase  leading-tight tracking-wide"
+              class="mt-3 shadow-lg rounded-md w-11/12 text-sm px-2 bg-green-400 py-3 text-white text-center font-medium uppercase tracking-wide"
               type="submit"
               id="whatsapp-btn"
             >
-              Send proof of payment
+              Send proof of payment to WhatsApp
             </button>
           </a>
         </div>
