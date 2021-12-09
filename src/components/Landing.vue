@@ -562,5 +562,8 @@
 <script>
 export default {
   name: "Landing",
+  created() {
+      document.title = "The Easiest and Fastest Way to Lower Your Blood Pressure :: Eazifit"
+  },
 };
 </script>

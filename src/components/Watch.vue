@@ -10,7 +10,7 @@
       <h2 class="font-semibold text-2xl ">
         Watch or Download the HBP Exercise Video Below</h2>
 
- 
+
 
     </section>
   </div>
@@ -18,5 +18,8 @@
 <script>
 export default {
   name: "ThankYou",
+  created() {
+      document.title = "Watch or Download the HBP Exercise Video :: EaziFit"
+  },
 };
 </script>

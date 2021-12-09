@@ -4,6 +4,7 @@ import Landing from "@/components/Landing.vue";
 import Payment from "@/components/Payment.vue";
 import ThankYou from "@/components/ThankYou.vue";
 import Watch from "@/components/Watch.vue";
+import OrderForm from "@/components/OrderForm.vue";
 
 Vue.use(VueRouter);
 
@@ -44,6 +45,14 @@ export default new VueRouter({
       component: Watch,
       meta: {
         title: "Watch or Download the HBP Exercise Video :: EaziFit",
+      },
+    },
+    {
+      path: "/order",
+      name: "OrderForm",
+      component: OrderForm,
+      meta: {
+        title: "Fill in the form to get the book delivered to your email :: EaziFit",
       },
     },
   ],

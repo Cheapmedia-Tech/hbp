@@ -36,5 +36,8 @@
 <script>
 export default {
   name: "ThankYou",
+  created() {
+      document.title = "Thank you for your purchase! :: EaziFit"
+  },
 };
 </script>

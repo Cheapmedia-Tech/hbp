@@ -122,7 +122,7 @@
 export default {
   name: "Payment",
   created() {
-    document.title = "Buy the Book Now :: EaziFit"
+      document.title = "Fill in the form to get the book delivered to your email :: EaziFit"
   },
   data() {
     return {
