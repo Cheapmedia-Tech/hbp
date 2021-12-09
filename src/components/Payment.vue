@@ -96,7 +96,7 @@
 
 
           <button
-            class="mt-4 shadow-lg rounded-md w-11/12 text-sm px-2 bg-gray-600 py-3 text-white text-center font-medium uppercase  leading-tight tracking-wide"
+            class="mt-4 shadow-lg rounded-md w-11/12 text-sm px-2 bg-gray-700 py-3 text-white text-center font-medium uppercase  leading-tight tracking-wide"
             type="submit"
             id="copybtn"
             @click="copy('acc'), changetext"

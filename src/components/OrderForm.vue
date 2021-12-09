@@ -43,6 +43,7 @@
             />
             <button
               class="mt-2 shadow-lg rounded-md w-full text-sm px-2 bg-hgreen py-3 text-white text-center font-medium uppercase  tracking-wide"
+              @click="submitOrder"
               type="submit"
             >
               Submit
@@ -63,6 +64,10 @@ export default {
   data() {
     return {};
   },
-  methods: {},
+  methods: {
+      submitOrder() {
+        
+      }
+  }
 };
 </script>
