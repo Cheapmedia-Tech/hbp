@@ -48,7 +48,7 @@ export default new VueRouter({
       },
     },
     {
-      path: "/order",
+      path: "/optin",
       name: "OrderForm",
       component: OrderForm,
       meta: {
