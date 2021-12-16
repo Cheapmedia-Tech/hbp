@@ -187,6 +187,15 @@
           However, the following symptoms may be related to or indicate a need to check your blood pressure:
           <ul class="list-disc pl-4">
             <li>
+                Persistent headaches
+            </li>
+            <li>
+                Tightness in chest
+            </li>
+            <li>
+                Forceful heartbeats
+            </li>
+            <li>
                 Dizziness
             </li>
             <li>
@@ -272,7 +281,7 @@
         </div>
         <h2 class="mt-3">
           But he must take things patiently because of how bad his condition
-          worse.
+          was.
         </h2>
         <h2 class="mt-3">
           It had affected his heart.
@@ -308,7 +317,7 @@
           <br />
 
           Yes, that really affected me. He said this after one month and his BP
-          was already down to 133 at this point.
+          was already down to 133 in two weeks.
           <br />
           <br />
 
@@ -437,25 +446,32 @@
       </div>
 
       <p class="mt-4 text-lg">
-        This book is sure to:
+        With this book and videos, you will:
 
         <br />
         <br />
         <span class="font-semibold text-lg">
-          Learn what HBP is and why it is so deadly
+
+
+
+          Learn what causes HBP and how to reverse and avoid it.
           <br />
           <br />
-          Learn how to lower the risks for this disease through lifestyle adjustments
+          Learn the nutritional adjustment to reverse and avoid HBP
           <br />
           <br />
-          Learn what the consequences of this disease are and how to deal with them
+          Learn the very easy and simple fitness approach that reverses and prevents HBP
+
           <br />
           <br />
           Learn how to get started on a fitness journey for ZERO HBP
           <br />
           <br />
-          <!-- Those who know that HBP is a very common lifestyle disease and want to
-          avoid it. -->
+          Learn accountability tricks that guarantees consistency in fitness
+          <br />
+          <br />
+          Follow a 28 Easy Fitness Guide that delivers the exact result you need for your blood pressure.
+
         </span>
       </p>
     </section>
