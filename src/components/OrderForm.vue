@@ -23,6 +23,7 @@
               name="fullname"
               placeholder="Your full name"
               id="fullname"
+              v-model="fullname"
               class="text-sm mb-3 px-2 py-2 border-gray-400 border-2 rounded-md"
             />
             <input
@@ -31,6 +32,7 @@
               name="email"
               placeholder="Your email address"
               id="email"
+              v-model="email"
               class="text-sm mb-3 px-2 py-2 border-gray-400 border-2 rounded-md"
             />
             <input
@@ -39,6 +41,7 @@
               name="phone"
               placeholder="Your phone number"
               id="phone"
+              v-model="phone"
               class="text-sm mb-3 px-2 py-2 border-gray-400 border-2 rounded-md"
             />
             <button
@@ -55,6 +58,7 @@
   </div>
 </template>
 <script>
+import axios from "axios";
 export default {
   name: "Payment",
   created() {
@@ -62,12 +66,29 @@ export default {
       "Fill in the form to get the book delivered to your email :: EaziFit";
   },
   data() {
-    return {};
+    return {
+      email: "",
+      fullname: "",
+      phone: "",
+    };
   },
   methods: {
-      submitOrder() {
-        
+    submitOrder() {
+      if (
+        this.email && this.fullname
+      ) {
+        axios.post("https://hbp-be.herokuapp.com/order", {
+          email: this.email,
+          fullname: this.fullname,
+        })
+        .then(() => {
+          window.location.href = "/paidaccessgranted";
+        })
+        .catch((error) => {
+          console.log("error: " + error);
+        });
       }
-  }
+    },
+  },
 };
 </script>
