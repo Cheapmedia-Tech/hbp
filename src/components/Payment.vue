@@ -104,7 +104,7 @@
             Copy Account Number
           </button>
 
-          <a href="https://wa.me/2349058337546">
+          <a href="https://wa.me/2349058337546/?text=I%20have%20paid%20for%20%22Easiest%20and%20Fastest%20Way%20to%20Lower%20your%20Blood%20Pressure.%22%20Find%20my%20proof%20of%20payment%20below.">
             <button
               class="mt-3 shadow-lg rounded-md w-11/12 text-sm px-2 bg-green-400 py-3 text-white text-center font-medium uppercase tracking-wide"
               type="submit"

@@ -7,19 +7,25 @@
     </div>
 
     <section id="who-book-for" class="text-gray-800 mt-8 text-center px-4">
-      <h2 class="font-semibold text-2xl ">
-        Watch or Download the HBP Exercise Video Below</h2>
+      <h2 class="font-semibold text-2xl mb-4">
+        Watch or Download the HBP Exercise Video Below
+      </h2>
 
-        
+      <vueVimeoPlayer ref="player" :video-id="657730585" player-width="auto"/>
 
     </section>
   </div>
 </template>
 <script>
+ import { vueVimeoPlayer } from 'vue-vimeo-player'
+
 export default {
   name: "ThankYou",
+  components: {
+    vueVimeoPlayer
+  },
   created() {
-      document.title = "Watch or Download the HBP Exercise Video :: EaziFit"
+    document.title = "Watch or Download the HBP Exercise Video :: EaziFit";
   },
 };
 </script>
