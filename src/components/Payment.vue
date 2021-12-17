@@ -12,7 +12,7 @@
       </h2>
 
       <section id="#payment-openers" class="text-center">
-        <div class="mt-4 text-center w-3/4 mx-auto">
+        <div class="hidden mt-4 text-center w-3/4 mx-auto">
           <button
             v-on:click="fwaveHidden = !fwaveHidden"
             class="mt-6 border-2 font-semibold bg-hgreen text-white text-xl border-hgreen w-full rounded-lg px-2 py-3"
