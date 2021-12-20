@@ -24,7 +24,7 @@
       </div>
 
       <div class="mt-8 px-3 w-full text-center">
-        <a href="/pay">
+        <a href="#payment">
           <button
             class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
           >
@@ -89,7 +89,7 @@
         </div>
 
         <div class="mt-5  mb-3 w-full text-center">
-          <a href="/pay">
+          <a href="#payment">
             <button
               class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
             >
@@ -151,7 +151,7 @@
       </p>
     </section>
     <!-- <div class="mt-5 px-3  mb-3 w-full text-center">
-      <a href="/pay">
+      <a href="#payment">
         <button
           class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
@@ -219,7 +219,7 @@
     </section>
 
     <div class="mt-5 px-3 mb-3 w-full text-center">
-      <a href="/pay">
+      <a href="#payment">
         <button
           class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
@@ -520,7 +520,7 @@
     </section>
 
     <div class="py-6 px-3 w-full text-center">
-      <a href="/pay">
+      <a href="#payment">
         <button
           class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
@@ -563,7 +563,7 @@
     </section>
 
     <div class="mt-5 px-3 w-full text-center">
-      <a href="/pay">
+      <a href="#payment">
         <button
           class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
@@ -572,6 +572,77 @@
         </button>
       </a>
     </div>
+
+    <div
+    class="font-graphik tracking-tight mt-3 pb-4 sm:max-w-screen-sm sm:mx-auto"
+  >
+
+    <section id="payment" class="text-gray-900 mt-8 px-2">
+      <h2 class="font-semibold text-2xl text-center px-4">
+        Continue Here to Complete your Purchase
+      </h2>
+
+      <section id="#payment-openers" class="text-center">
+
+        <!-- <div class="text-center w-3/4 mx-auto">
+          <button
+
+            class="mt-8 border-2 font-semibold text-xl bg-hblue text-white  border-hblue w-full rounded-lg px-2 py-3"
+          >
+            Pay with Bank Transfer
+          </button>
+        </div> -->
+
+        <div  id="bank-transfer" class="mt-5 w-3/4 mx-auto">
+          <h2 class="font-medium  text-center leading-tight">
+            Make a bank transfer to the account below and send us a message :)
+          </h2>
+
+          <hr class="mt-4" />
+
+          <h2 class="mt-3 text-center leading-normal">
+           <p class="font-semibold mt-2">Bank</p>
+            <p class="-mt-1">Access Bank</p>
+
+
+            <h2 class="font-medium  text-center leading-tight mt-2">
+            Account number
+          </h2>
+          <p id="acc">0809292464</p>
+
+
+            <p class="font-semibold mt-2">Account Name</p>
+            Hackney Digitech Company Ltd <br />
+            (Current Account)
+
+
+          </h2>
+
+
+
+          <button
+            class="mt-4 shadow-lg rounded-md w-11/12 text-sm px-2 bg-gray-700 py-3 text-white text-center font-medium uppercase  leading-tight tracking-wide"
+            type="submit"
+            id="copybtn"
+            @click="copy('acc'), changetext"
+          >
+            Copy Account Number
+          </button>
+
+          <a href="https://wa.me/2349058337546/?text=I%20have%20paid%20for%20%22Easiest%20and%20Fastest%20Way%20to%20Lower%20your%20Blood%20Pressure.%22%20Find%20my%20proof%20of%20payment%20below.">
+            <button
+              class="mt-3 shadow-lg rounded-md w-11/12 text-sm px-2 bg-green-400 py-3 text-white text-center font-medium uppercase tracking-wide"
+              type="submit"
+              id="whatsapp-btn"
+            >
+              Send proof of payment to WhatsApp
+            </button>
+          </a>
+        </div>
+      </section>
+    </section>
+  </div>
+
   </div>
 </template>
 
@@ -580,6 +651,23 @@ export default {
   name: "Landing",
   created() {
       document.title = "The Easiest and Fastest Way to Lower Your Blood Pressure :: Eazifit"
+  },
+  methods: {
+    copy(id) {
+      var text = document.getElementById(id).innerText;
+      var elem = document.createElement("textarea");
+      document.body.appendChild(elem);
+      elem.value = text;
+      elem.select();
+      document.execCommand("copy");
+      document.body.removeChild(elem);
+    },
+
+    changetext() {
+      setTimeout(function() {
+        document.getElementById("copybtn").innerText = "Copied";
+      }, 3000);
+    },
   },
 };
 </script>
