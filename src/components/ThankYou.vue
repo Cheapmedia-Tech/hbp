@@ -20,7 +20,7 @@
         <br>
       </p>
 
-      <a href="https://wa.me/2347038506590">
+      <a href="https://wa.me/2349058337546">
             <button
               class="mt-5 shadow-lg rounded-md w-9/12 text-sm px-2 bg-green-400 py-3 text-white text-center font-medium uppercase  leading-tight tracking-wide"
               type="submit"
