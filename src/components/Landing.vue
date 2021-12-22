@@ -530,6 +530,19 @@
       </a>
     </div>
 
+    <div class="text-center mt-6 mx-auto px-4">
+          <img
+            src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1640196194/hbp/testimonials/test-thompson-1_bddysu.jpg"
+            alt="testimonial-1"
+            class="mx-auto border-2 border-gray-300"
+          />
+          <img
+            src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1640196194/hbp/testimonials/test-thompson-2_mxxbse.jpg"
+            alt="testimonial-1"
+            class="mt-3 mx-auto border-2 border-gray-300"
+          />
+        </div>
+
     <section id="landing-section" class="text-left px-3  text-gray-800 ">
       <h2 class="mt-3">
         We have several testimonies. Too many. Of those who by our
