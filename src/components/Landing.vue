@@ -6,19 +6,22 @@
 
 
 
-    <div class="text-right mt-4">
+    <!-- <div class="text-right mt-4">
       <img src="../assets/img/eazifit-logotype.svg" class="mx-auto w-1/3" />
-    </div>
+    </div> -->
 
       <h2 class="px-3 mt-4 font-semibold text-3xl text-center text-gray-800">
-        You have just found the <span class="text-hgreen">Cheapest & Fastest Solution</span> to High Blood Pressure!
+        Finally, you've found the <span class="text-hgreen">Cheapest, Fastest & Complete</span> Solution to High Blood Pressure.
+        <br>
+        <br>
+        <p class="text-2xl leading-snug">It is 100% Safe, Effective and Guaranteed.</p>
       </h2>
 
     <section id="hero-section">
       <div class=" px-3 mt-4 text-center  mx-auto">
         <img
           src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1639071730/hbp/lp-banner_qaamp2.png"
-          alt="eugel-banner"
+          alt="hbp-banner"
           class="mx-auto"
         />
       </div>
@@ -28,7 +31,7 @@
           <button
             class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
           >
-            get the ebook + training videos<br />
+            Get the HBP Reserval Plan Now<br />
             <!-- <span class="text-xs">(for just NGN 2,000)</span> -->
           </button>
         </a>
@@ -45,37 +48,38 @@
 
       <p class="mt-4 text-">
         <span class="text-">
-          HBP is the most common and most dangerous illness out there.
+          The HBP Reserval Plan is a guaranteed and effective fitness approach that is easy to carry out and totally ends High Blood Pressure.
+
           <br />
           <br />
-          It has been stated that as much as 70% of adult population suffer from
-          it. Some are not even aware.
+          See some of our testimonials
+.
+.
+2 testimonials
           <br />
           <br />
-          Some are not dealing with it decisively but allowing it to destroy
-          their body.
+          We would show you why this HBP Reserval Plan is the most effective approach to deal with HBP and why many of the different products and methods out there do not guarantee a permanent result that you desire.
           <br />
           <br />
-          Some are using the wrong things such as herbal teas and medications,
-          which doctors will tell you are not the real solution.
+          But you can claim our special offer right now and you will get:
           <br />
           <br />
-          You need a real solution because HBP will cause you:
-          <ul class="font-semibold list-disc pl-4">
-            <li>Heart attack or stroke</li>
-            <li>Dementia</li>
-            <li>Heart failure</li>
-            <li>Aneurysm</li>
-            <li>Weakened and narrowed blood vessels in your kidneys</li>
-            <li>Thickened, narrowed or torn blood vessels in the eyes</li>
-            <li>Metabolic syndrome</li>
-          </ul>
+          <span class="font-semibold">1. 70% Discount from the original price of NGN 10,000 and pay only NGN 3,000</span>
+          <br />
+          <br />
+          <span class="font-semibold">2. You get a free bonus videos that explains to show you the practice of this HBP Reserval Plan worth NGN 5,000</span>
+          <br />
+          <br />
+          <span class="font-semibold">3. A free bonus of a Comprehensive Nutritional Plan that is worth NGN 5,000</span>
+          <br />
+          <br />
+          <span class="font-semibold">4. A total Money Back Guarantee if you purchase this and you don't see a total reversal of HBP.</span>
         </span>
       </p>
     </section>
 
     <section id="landing-section" class="text-left px-3  text-gray-800 ">
-      <!-- eugel logo -->
+      <!-- hbp logo -->
 
       <div class="font text-lg">
         <!-- PAIN IMAGE -->
@@ -93,7 +97,7 @@
             <button
               class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
             >
-              get the ebook + training videos<br />
+              Get the HBP Reserval Plan Now<br />
               <!-- <span class="text-xs">(for just NGN 2,000)</span> -->
             </button>
           </a>
@@ -108,39 +112,56 @@
 
       <div class="mt-4 text-">
         <p class="text-">
-          HBP is a lifestyle condition and the only real solution is
-          <span class="font-semibold uppercase text-lg text-hblue">Fitness</span
-          >.
+
+          Why the HBP Reserval Plan is the truly guaranteed way to end High Blood Pressure.
+          <br>
+          <br>
+          HBP is a lifestyle condition not caused by infection of virus or bacteria.
           <br />
           <br />
-          It is not only the real solution it is the fastest and in fact the
-          easiest.
+          Yet it is the highest cause of death amongst both young adults and elderly people.
           <br />
           <br />
-          This Book is designed to take you through a fitness plan that would be
-          so easy, you will be having fun while at it.
+          Many suffer from it without knowing but those who know often try to use drugs to cure it.
           <br />
           <br />
-          Also, we will give you an explanatory video to guide you every step of
-          the way in your journey.
+          But you cannot cure a lifestyle condition with drugs, since it is not an infection. Drugs may help in regulating the body better but if what you want is a permanent solution to HBP, then your only option is a lifestyle solution.
           <br />
           <br />
-          Asides this, you will get a bonus of a nutrition plan and access to
-          our exclusive support group on Facebook to help you stay accountable
-          and encouraged.
+          But it doesn't have to be difficult. We have made it so easy that anyone can follow and practice.
+          <br />
+          <br />
+          And we want to expose this secret to those who are willing to take action and put this terrible condition behind them.
         </p>
       </div>
+
+      <div class="mt-5  mb-3 w-full text-center">
+          <a href="#payment">
+            <button
+              class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+            >
+              Get the HBP Reserval Plan Now<br />
+              <!-- <span class="text-xs">(for just NGN 2,000)</span> -->
+            </button>
+          </a>
+        </div>
     </section>
 
     <section
       id="coach-intro"
       class="bg-hblue text-white mt-5 px-5 py-6 text-center"
     >
-      <div class="">
+    <h2 class="font-semibold text-2xl text-center">
+        Who Created the HBP Reserval Plan and Why?
+      </h2>
+      <div class="mt-3">
         <img src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638954573/hbp/john-fitness-profile_mtfnne.png" class="  mx-auto" alt="" />
       </div>
       <p class="mt-5">
-        Hi, I am John Afolabi, a certified fitness expert who earned a degree in
+        Hello, I am John Afolabi. The creator of the HBP Reserval Plan.
+        <br>
+        <br>
+        I am a certified fitness expert who earned a degree in
         Physical and Health Education from the prestigious Obafemi Awolowo
         University and have gone on to earn several more certifications in
         fitness, physical health and nutrition.
@@ -148,109 +169,21 @@
         <br />
         I have also worked and continue to work in gyms and personal coaching
         sessions to help people achieve their fitness and health goals.
+        <br />
+        <br />
+        I decided to create this because of my experience see many people suffer from HBP.
+        <br />
+        <br />
+        All classes of people. Young and old. Rich and poor, of every tribe and culture.
+
       </p>
     </section>
-    <!-- <div class="mt-5 px-3  mb-3 w-full text-center">
-      <a href="#payment">
-        <button
-          class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
-        >
-          get the ebook + training videos<br />
-        </button>
-      </a>
-    </div> -->
 
-    <section id="who-book-for" class="text-gray-800 mt-5 px-3">
-      <h2 class="font-semibold text-2xl text-center">
-        How to know if you are suffering from HBP silently
-      </h2>
-
-      <div class="mt-4 text-">
-          <div class="text-center mt-3 mx-auto border-2 border-gray-300">
-          <img
-            src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638889821/hbp/readings-chart_isutu4.jpg"
-            alt="testimonial-1"
-            class="mx-auto"
-          />
-        </div>
-
-        <p class="mt-2">
-          High blood pressure is often symptomless and has been labeled a “silent killer.” If you
-          ignore your blood pressure because you think a certain symptom
-          will alert you to the problem, you are taking a dangerous chance with
-          your life.
-          <br>
-          <br>
-          You should do regular checkups at a health facility to ensure your blood pressure is within the healthy range.
-          <br />
-          <br />
-          However, the following symptoms may be related to or indicate a need to check your blood pressure:
-          <ul class="list-disc pl-4">
-            <li>
-                Persistent headaches
-            </li>
-            <li>
-                Tightness in chest
-            </li>
-            <li>
-                Forceful heartbeats
-            </li>
-            <li>
-                Dizziness
-            </li>
-            <li>
-                Nervousness
-            </li>
-            <li>
-                Sweating
-            </li>
-            <li>
-                Trouble sleeping
-            </li>
-            <li>
-                Facial flushing
-            </li>
-            <li>
-                Blood spots in eyes
-            </li>
-          </ul>
-        </p>
-      </div>
-    </section>
-
-    <div class="mt-5 px-3 mb-3 w-full text-center">
-      <a href="#payment">
-        <button
-          class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
-        >
-          get the ebook + training videos<br />
-        </button>
-      </a>
-    </div>
-
-    <section class="px-3 mt-6">
-
-      <h2 class="font-semibold text-2xl text-hblue text-center">
-        Why Did We Create the <span class="text-hgreen">HBP Fitness Plan?</span>
-      </h2>
+     <section class="px-3 mt-6">
       <div>
-                <h2 class="mt-3   ">
-          As a certified fitness coach, I have watched many clients approach me
-          after recommendation from their physician to immediately start a
-          fitness plan if they don't want to lose their lives.
-        </h2>
 
-        <h2 class="mt-3 underline font-medium">
-          I can tell several examples. Of different classes of people. Different
-          tribes and cultures.
-        </h2>
-        <h2 class="mt-3   ">
-          HBP is no respecter of persons.
-        </h2>
-
-        <h2 class="mt-5 text-2xl font-semibold text-hblue">
-          But one example that made me decide to provide this solution at this
-          very affordable rate was that of a wealthy man.
+        <h2 class="mt-4 text-xl font-semibold text-hblue">
+          What pushed me to eventually create a book to document the secrets of how to reverse HBP with the HBP Reserval Plan is an experience I had helping a wealthy man in Lagos State deal with this difficult disease.
         </h2>
         <h2 class="mt-3 text-hgreen font-semibold text-xl">
           His blood pressure was already at 160.
@@ -338,6 +271,86 @@
       </div>
     </section>
 
+
+    <!-- <div class="mt-5 px-3  mb-3 w-full text-center">
+      <a href="#payment">
+        <button
+          class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+        >
+          Get the HBP Reserval Plan Now<br />
+        </button>
+      </a>
+    </div> -->
+
+    <section id="who-book-for" class="text-gray-800 mt-5 px-3">
+      <h2 class="font-semibold text-2xl text-center">
+        How to know if you are suffering from HBP silently
+      </h2>
+
+      <div class="mt-4 text-">
+          <div class="text-center mt-3 mx-auto border-2 border-gray-300">
+          <img
+            src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638889821/hbp/readings-chart_isutu4.jpg"
+            alt="testimonial-1"
+            class="mx-auto"
+          />
+        </div>
+
+        <p class="mt-2">
+          High blood pressure is often symptomless and has been labeled a “silent killer.” If you
+          ignore your blood pressure because you think a certain symptom
+          will alert you to the problem, you are taking a dangerous chance with
+          your life.
+          <br>
+          <br>
+          You should do regular checkups at a health facility to ensure your blood pressure is within the healthy range.
+          <br />
+          <br />
+          However, the following symptoms may be related to or indicate a need to check your blood pressure:
+          <ul class="list-disc pl-4">
+            <li>
+                Persistent headaches
+            </li>
+            <li>
+                Tightness in chest
+            </li>
+            <li>
+                Forceful heartbeats
+            </li>
+            <li>
+                Dizziness
+            </li>
+            <li>
+                Nervousness
+            </li>
+            <li>
+                Sweating
+            </li>
+            <li>
+                Trouble sleeping
+            </li>
+            <li>
+                Facial flushing
+            </li>
+            <li>
+                Blood spots in eyes
+            </li>
+          </ul>
+        </p>
+      </div>
+    </section>
+
+    <div class="mt-5 px-3 mb-3 w-full text-center">
+      <a href="#payment">
+        <button
+          class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+        >
+          Get the HBP Reserval Plan Now<br />
+        </button>
+      </a>
+    </div>
+
+
     <section id="landing-section" class="text-left px-3  text-gray-800 ">
       <h2 class="mt-3">
         <p class="text-2xl font-semibold text-hblue">
@@ -383,7 +396,7 @@
       <div class=" px-3 mt-4 text-center  mx-auto">
         <img
           src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638954013/hbp/eazifit-ipad-book-exercisers_geqr7q.png"
-          alt="eugel-banner"
+          alt="hbp-banner"
           class="mx-auto w-2/3"
         />
       </div>
@@ -428,53 +441,7 @@
       </div>
     </section>
 
-    <section
-      id="who-book-for"
-      class="bg-hblue text-white mt-5 px-5 py-6 text-center"
-    >
-      <!-- <div class="">
-        <img src="../assets/img/coach-john.png" class="w-1/3 mx-auto" alt="" />
-      </div> -->
-      <h2 class="font-semibold text-2xl">What this Book Covers:</h2>
 
-      <div class="mt-3 px-3 text-center  mx-auto">
-        <img
-          src="https://res.cloudinary.com/dq6iuhnpr/image/upload/q_auto:good/v1639072070/hbp/eazifit-ipad-book-outline_ygllta.png"
-          alt="eugel-banner"
-          class="mx-auto w-3/4"
-        />
-      </div>
-
-      <p class="mt-4 text-lg">
-        With this book and videos, you will:
-
-        <br />
-        <br />
-        <span class="font-semibold text-lg">
-
-
-
-          Learn what causes HBP and how to reverse and avoid it.
-          <br />
-          <br />
-          Learn the nutritional adjustment to reverse and avoid HBP
-          <br />
-          <br />
-          Learn the very easy and simple fitness approach that reverses and prevents HBP
-
-          <br />
-          <br />
-          Learn how to get started on a fitness journey for ZERO HBP
-          <br />
-          <br />
-          Learn accountability tricks that guarantees consistency in fitness
-          <br />
-          <br />
-          Follow a 28 Easy Fitness Guide that delivers the exact result you need for your blood pressure.
-
-        </span>
-      </p>
-    </section>
 
     <section id="who-book-for" class="text-gray-800 mt-5 px-5 pt-6 text-center">
       <!-- <div class="">
@@ -488,7 +455,7 @@
       <div class="mt-3 px-3 text-center  mx-auto">
         <img
           src="../assets/img/eazifit-ipad-book.png"
-          alt="eugel-banner"
+          alt="hbp-banner"
           class="mx-auto "
         />
       </div>
@@ -503,18 +470,12 @@
           A Comprehensive Nutrition Guide for beating HBP
           <br />
           <br />
-
-          <img src="../assets/img/svg/group.svg" class="mx-auto" alt="" />
-
-          Access to a private Facebook group for support and accountability
-          <br />
-
-          <br />
           <img src="../assets/img/svg/myth.svg" class="mx-auto" alt="" />
 
           HBP Fitness Myth Busters
-          <!-- Those who know that HBP is a very common lifestyle disease and want to
-          avoid it. -->
+          <SPAN class="block text-hgreen mt-3 text-2xl">
+            100% MONEY BACK GUARANTEE
+          </SPAN>
         </p>
       </div>
     </section>
@@ -524,7 +485,7 @@
         <button
           class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
-          get the ebook + training videos<br />
+          Get the HBP Reserval Plan Now<br />
           <!-- <span class="text-xs">(for just NGN 2,000)</span> -->
         </button>
       </a>
@@ -580,7 +541,7 @@
         <button
           class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
-          get the ebook + training videos<br />
+          Get the HBP Reserval Plan Now<br />
           <!-- <span class="text-xs">(for just NGN 2,000)</span> -->
         </button>
       </a>
