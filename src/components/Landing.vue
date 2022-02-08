@@ -20,7 +20,7 @@
     <section id="hero-section">
       <div class=" px-3 mt-4 text-center  mx-auto">
         <img
-          src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1639071730/hbp/lp-banner_qaamp2.png"
+          src="https://res.cloudinary.com/letroot/image/upload/q_64/v1644320172/hbp/lp-banner_qh5t4f.webp"
           alt="hbp-banner"
           class="mx-auto"
         />
@@ -32,30 +32,40 @@
             class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
           >
             Get the HBP Reserval Plan Now<br />
-            <!-- <span class="text-xs">(for just NGN 2,000)</span> -->
+            <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
           </button>
         </a>
       </div>
     </section>
 
-    <section id="who-book-for" class="bg-hblue text-white mt-8 px-5 py-6">
+    <section id="who-book-for" class="text-gray-800 mt-8 px-5 py-0">
       <!-- <div class="">
         <img src="../assets/img/coach-john.png" class="w-1/3 mx-auto" alt="" />
       </div> -->
-      <h2 class="font-semibold text-2xl text-center">
-        Why you need to deal with HBP right now
-      </h2>
-
-      <p class="mt-4 text-">
+      <div class="mt-0 text-">
         <span class="text-">
           The HBP Reserval Plan is a guaranteed and effective fitness approach that is easy to carry out and totally ends High Blood Pressure.
 
           <br />
           <br />
           See some of our testimonials
-.
-.
-2 testimonials
+
+          <div class=" px-3 mt-4 text-center  mx-auto">
+        <img
+          src="https://res.cloudinary.com/letroot/image/upload/v1644320312/hbp/test-becca-1_awintd.webp"
+          alt="hbp-banner"
+          class="mx-auto"
+        />
+      </div>
+
+      <div class=" px-3 mt-4 text-center  mx-auto">
+        <img
+          src="https://res.cloudinary.com/letroot/image/upload/v1644320317/hbp/test-becca-2_t9gkim.webp"
+          alt="hbp-banner"
+          class="mx-auto"
+        />
+      </div>
+
           <br />
           <br />
           We would show you why this HBP Reserval Plan is the most effective approach to deal with HBP and why many of the different products and methods out there do not guarantee a permanent result that you desire.
@@ -74,8 +84,11 @@
           <br />
           <br />
           <span class="font-semibold">4. A total Money Back Guarantee if you purchase this and you don't see a total reversal of HBP.</span>
+<br />
+          <br />
+          <span class="text-hgreen font-semibold text-center text-xl block">Get all the above just for a one time discounted price of NGN 3000 right now.</span>
         </span>
-      </p>
+      </div>
     </section>
 
     <section id="landing-section" class="text-left px-3  text-gray-800 ">
@@ -84,21 +97,13 @@
       <div class="font text-lg">
         <!-- PAIN IMAGE -->
 
-        <div class="text-center mt-3 mx-auto border-2 border-gray-300">
-          <img
-            src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638410402/hbp/self-diag-hbp_mfw5r8.png"
-            alt="testimonial-1"
-            class="mx-auto"
-          />
-        </div>
-
-        <div class="mt-5  mb-3 w-full text-center">
+        <div class="mt-4  mb-3 w-full text-center">
           <a href="#payment">
             <button
               class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
             >
               Get the HBP Reserval Plan Now<br />
-              <!-- <span class="text-xs">(for just NGN 2,000)</span> -->
+              <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
             </button>
           </a>
         </div>
@@ -107,15 +112,12 @@
 
     <section id="who-book-for" class="text-gray-800 mt-5 px-3">
       <h2 class="font-semibold text-2xl text-center">
-        The Only <span class="text-hgreen">True Solution</span> to HBP
+        Why the <span class="text-hgreen"> HBP Reserval Plan</span> is the truly guaranteed way to end High Blood Pressure
       </h2>
 
       <div class="mt-4 text-">
         <p class="text-">
 
-          Why the HBP Reserval Plan is the truly guaranteed way to end High Blood Pressure.
-          <br>
-          <br>
           HBP is a lifestyle condition not caused by infection of virus or bacteria.
           <br />
           <br />
@@ -141,7 +143,86 @@
               class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
             >
               Get the HBP Reserval Plan Now<br />
-              <!-- <span class="text-xs">(for just NGN 2,000)</span> -->
+              <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
+            </button>
+          </a>
+        </div>
+    </section>
+
+    <section id="who-book-for" class="text-gray-800 mt-5 px-3">
+      <h2 class="font-semibold text-2xl text-center">
+        See what some of <span class="">Our Clients</span> have to say about the <span class="text-hblue">Effectiveness of the HBP Reserval Plan</span>
+      </h2>
+
+      <div class="mt-4 text-">
+        <p class="text-">
+          <span class="font-medium">You need to act very fast against HBP because it leads to:</span>
+          <ul class="list-disc pl-4">
+            <li>
+                Heart disease
+            </li>
+            <li>
+                Heart attack
+            </li>
+            <li>
+                Kidney failure
+            </li>
+            <li>
+                Higher risk of stroke
+            </li>
+            <li>
+                Dementia
+            </li>
+            <li>
+                Anuerysm
+            </li>
+            <li>
+                Trouble with memory or understanding
+            </li>
+
+          </ul>
+          <br />
+          <span class="font-medium">So, if you are feeling any of these symptoms below, take action and get this ebook now:</span>
+          <br />
+          <ul class="list-disc pl-4">
+            <li>
+                Persistent headaches
+            </li>
+            <li>
+                Tightness in chest
+            </li>
+            <li>
+                Forceful heartbeats
+            </li>
+            <li>
+                Dizziness
+            </li>
+            <li>
+                Nervousness
+            </li>
+            <li>
+                Sweating
+            </li>
+            <li>
+                Trouble sleeping
+            </li>
+            <li>
+                Facial flushing
+            </li>
+            <li>
+                Blood spots in eyes
+            </li>
+          </ul>
+        </p>
+      </div>
+
+      <div class="mt-5  mb-3 w-full text-center">
+          <a href="#payment">
+            <button
+              class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+            >
+              Get the HBP Reserval Plan Now<br />
+              <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
             </button>
           </a>
         </div>
@@ -155,7 +236,7 @@
         Who Created the HBP Reserval Plan and Why?
       </h2>
       <div class="mt-3">
-        <img src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638954573/hbp/john-fitness-profile_mtfnne.png" class="  mx-auto" alt="" />
+        <img src="https://res.cloudinary.com/letroot/image/upload/q_65/v1644328221/hbp/john-fitness-profile_hsfvkc.webp" class="  mx-auto" alt="" />
       </div>
       <p class="mt-5">
         Hello, I am John Afolabi. The creator of the HBP Reserval Plan.
@@ -191,7 +272,7 @@
 
         <div class="text-center mt-3 mx-auto border-2 border-gray-300">
           <img
-            src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638434227/hbp/old-man-hbp_md1hw1.png"
+            src="https://res.cloudinary.com/letroot/image/upload/q_60/v1644328379/hbp/old-man-hbp_jdgb3u.webp"
             alt="testimonial-1"
             class="mx-auto"
           />
@@ -207,7 +288,7 @@
 
         <div class="text-center mt-3 mx-auto border-2 border-gray-300">
           <img
-            src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638435082/hbp/old-man-run-hbp_m7vdld.png"
+            src="https://res.cloudinary.com/letroot/image/upload/q_60/v1644328383/hbp/old-man-run-hbp_pqleat.webp"
             alt="testimonial-1"
             class="mx-auto"
           />
@@ -282,63 +363,6 @@
       </a>
     </div> -->
 
-    <section id="who-book-for" class="text-gray-800 mt-5 px-3">
-      <h2 class="font-semibold text-2xl text-center">
-        How to know if you are suffering from HBP silently
-      </h2>
-
-      <div class="mt-4 text-">
-          <div class="text-center mt-3 mx-auto border-2 border-gray-300">
-          <img
-            src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638889821/hbp/readings-chart_isutu4.jpg"
-            alt="testimonial-1"
-            class="mx-auto"
-          />
-        </div>
-
-        <p class="mt-2">
-          High blood pressure is often symptomless and has been labeled a “silent killer.” If you
-          ignore your blood pressure because you think a certain symptom
-          will alert you to the problem, you are taking a dangerous chance with
-          your life.
-          <br>
-          <br>
-          You should do regular checkups at a health facility to ensure your blood pressure is within the healthy range.
-          <br />
-          <br />
-          However, the following symptoms may be related to or indicate a need to check your blood pressure:
-          <ul class="list-disc pl-4">
-            <li>
-                Persistent headaches
-            </li>
-            <li>
-                Tightness in chest
-            </li>
-            <li>
-                Forceful heartbeats
-            </li>
-            <li>
-                Dizziness
-            </li>
-            <li>
-                Nervousness
-            </li>
-            <li>
-                Sweating
-            </li>
-            <li>
-                Trouble sleeping
-            </li>
-            <li>
-                Facial flushing
-            </li>
-            <li>
-                Blood spots in eyes
-            </li>
-          </ul>
-        </p>
-      </div>
-    </section>
 
     <div class="mt-5 px-3 mb-3 w-full text-center">
       <a href="#payment">
@@ -367,7 +391,7 @@
         <br />
 
         <span class="font-medium text-hblue text-2xl"
-          >Just NGN 2,000 for something that works.</span
+          >Just NGN 3,000 for something that works.</span
         >
         <br />
         <br />
@@ -395,8 +419,8 @@
 
       <div class=" px-3 mt-4 text-center  mx-auto">
         <img
-          src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1638954013/hbp/eazifit-ipad-book-exercisers_geqr7q.png"
-          alt="hbp-banner"
+          src="https://res.cloudinary.com/letroot/image/upload/q_60/v1644328798/hbp/eazifit-ipad-book-exercisers_iefo7w.webp"
+          alt="hbp-exercises"
           class="mx-auto w-2/3"
         />
       </div>
@@ -435,7 +459,7 @@
       </h2>
       <div class="mt-5 text-lg">
         <p class="font-semibold text-lg text-center px-8">
-          Purchase this now at 60% Discount and you will have 14 days money back
+          Purchase this now at 70% Discount plus a money back
           guarantee, if you find out it was a waste of money.
         </p>
       </div>
@@ -454,7 +478,7 @@
 
       <div class="mt-3 px-3 text-center  mx-auto">
         <img
-          src="../assets/img/eazifit-ipad-book.png"
+          src="https://res.cloudinary.com/letroot/image/upload/q_60/v1644328919/hbp/eazifit-ipad-book_f809cs.webp"
           alt="hbp-banner"
           class="mx-auto "
         />
@@ -486,19 +510,19 @@
           class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
           Get the HBP Reserval Plan Now<br />
-          <!-- <span class="text-xs">(for just NGN 2,000)</span> -->
+          <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
         </button>
       </a>
     </div>
 
     <div class="text-center mt-6 mx-auto px-4">
           <img
-            src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1640196194/hbp/testimonials/test-thompson-1_bddysu.jpg"
+            src="https://res.cloudinary.com/letroot/image/upload/q_60/v1644328225/hbp/test-thompson-1_q6v3jh.webp"
             alt="testimonial-1"
             class="mx-auto border-2 border-gray-300"
           />
           <img
-            src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1640196194/hbp/testimonials/test-thompson-2_mxxbse.jpg"
+            src="https://res.cloudinary.com/letroot/image/upload/q_60/v1644328224/hbp/test-thompson-2_lxdujq.webp"
             alt="testimonial-1"
             class="mt-3 mx-auto border-2 border-gray-300"
           />
@@ -542,7 +566,7 @@
           class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
           Get the HBP Reserval Plan Now<br />
-          <!-- <span class="text-xs">(for just NGN 2,000)</span> -->
+          <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
         </button>
       </a>
     </div>
