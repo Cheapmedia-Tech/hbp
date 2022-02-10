@@ -705,7 +705,7 @@
         </div>
 
         <div class="mt-3 text-center w-3/4 mx-auto">
-          <a href="">
+          <a href="https://selar.co/ydho">
             <button
               class="mt-6 border-2 font-semibold bg-yellow-600 text-white text-xl w-full rounded-lg px-2 py-3"
             >
