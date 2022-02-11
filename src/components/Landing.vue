@@ -432,7 +432,7 @@
 
       <div class=" px-3 mt-4 text-center  mx-auto">
         <img
-          src="https://res.cloudinary.com/letroot/image/upload/q_20/v1644571451/hbp/eazifit-ipad-book-interior_l1cfpq.webp"
+          src="https://res.cloudinary.com/letroot/image/upload/q_5/v1644571451/hbp/eazifit-ipad-book-interior_l1cfpq.webp"
           alt="hbp-exercises"
           class="mx-auto w-2/3"
         />
