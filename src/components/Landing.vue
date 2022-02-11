@@ -20,7 +20,7 @@
     <section id="hero-section">
       <div class=" px-3 mt-4 text-center  mx-auto">
         <img
-          src="https://res.cloudinary.com/letroot/image/upload/q_64/v1644320172/hbp/lp-banner_qh5t4f.webp"
+          src="https://res.cloudinary.com/letroot/image/upload/q_69/v1644576131/hbp/lp-banner_oneman.webp"
           alt="hbp-banner"
           class="mx-auto"
         />
@@ -29,7 +29,7 @@
       <div class="mt-8 px-3 w-full text-center">
         <a href="#payment">
           <button
-            class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+            class="shadow-lg rounded-md w-full border-green-100 border-2 px-4 bg-hgreen py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
           >
             Get the HBP Reserval Plan Now<br />
             <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
@@ -86,7 +86,7 @@
           <span class="font-semibold">4. A total Money Back Guarantee if you purchase this and you don't see a total reversal of HBP.</span>
 <br />
           <br />
-          <span class="text-hgreen font-semibold text-center text-xl block">Get all the above just for a one time discounted price of NGN 3000 right now.</span>
+          <span class="text-hblue font-semibold text-center text-xl block">Get all the above just for a one time discounted price of NGN 3000 right now.</span>
         </span>
       </div>
     </section>
@@ -100,7 +100,7 @@
         <div class="mt-4  mb-3 w-full text-center">
           <a href="#payment">
             <button
-              class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+              class="shadow-lg rounded-md w-full border-green-100 border-2 px-4 bg-hgreen py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
             >
               Get the HBP Reserval Plan Now<br />
               <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
@@ -140,7 +140,7 @@
       <div class="mt-5  mb-3 w-full text-center">
           <a href="#payment">
             <button
-              class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+              class="shadow-lg rounded-md w-full border-green-100 border-2 px-4 bg-hgreen py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
             >
               Get the HBP Reserval Plan Now<br />
               <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
@@ -154,6 +154,13 @@
         See what some of <span class="">Our Clients</span> have to say about the <span class="text-hblue">Effectiveness of the HBP Reserval Plan</span>
       </h2>
 
+      <div class="text-center mt-6 mx-auto px-4">
+          <img
+            src="https://res.cloudinary.com/letroot/image/upload/v1644320310/hbp/test-patrick-1_x34fkt.jpg"
+            alt="testimonial-1"
+            class="mx-auto border-2 border-gray-300"
+          />
+        </div>
       <div class="mt-4 text-">
         <p class="text-">
           <span class="font-medium">You need to act very fast against HBP because it leads to:</span>
@@ -219,7 +226,7 @@
       <div class="mt-5  mb-3 w-full text-center">
           <a href="#payment">
             <button
-              class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+              class="shadow-lg rounded-md w-full border-green-100 border-2 px-4 bg-hgreen py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
             >
               Get the HBP Reserval Plan Now<br />
               <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
@@ -356,7 +363,7 @@
     <!-- <div class="mt-5 px-3  mb-3 w-full text-center">
       <a href="#payment">
         <button
-          class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+          class="shadow-lg rounded-md w-full border-green-100 border-2 px-4 bg-hgreen py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
           Get the HBP Reserval Plan Now<br />
         </button>
@@ -367,7 +374,7 @@
     <div class="mt-5 px-3 mb-3 w-full text-center">
       <a href="#payment">
         <button
-          class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+          class="shadow-lg rounded-md w-full border-green-100 border-2 px-4 bg-hgreen py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
           Get the HBP Reserval Plan Now<br />
         </button>
@@ -419,7 +426,7 @@
 
       <div class=" px-3 mt-4 text-center  mx-auto">
         <img
-          src="https://res.cloudinary.com/letroot/image/upload/q_60/v1644328798/hbp/eazifit-ipad-book-exercisers_iefo7w.webp"
+          src="https://res.cloudinary.com/letroot/image/upload/q_62/v1644571451/hbp/eazifit-ipad-book-interior_l1cfpq.webp"
           alt="hbp-exercises"
           class="mx-auto w-2/3"
         />
@@ -478,13 +485,13 @@
 
       <div class="mt-3 px-3 text-center  mx-auto">
         <img
-          src="https://res.cloudinary.com/letroot/image/upload/q_60/v1644328919/hbp/eazifit-ipad-book_f809cs.webp"
+          src="https://res.cloudinary.com/letroot/image/upload/q_68/v1644576131/hbp/eazifit-ipad-book_ejefkn.webp"
           alt="hbp-banner"
           class="mx-auto "
         />
       </div>
 
-      <div class="-mt-4 text-lg">
+      <div class="mt-4 text-lg">
         <p class="font-semibold text-lg text-center px-8">
           <img src="../assets/img/svg/video.svg" class="mx-auto" alt="" />
           Explanatory Videos
@@ -507,7 +514,7 @@
     <div class="py-6 px-3 w-full text-center">
       <a href="#payment">
         <button
-          class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+          class="shadow-lg rounded-md w-full border-green-100 border-2 px-4 bg-hgreen py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
           Get the HBP Reserval Plan Now<br />
           <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
@@ -563,7 +570,7 @@
     <div class="mt-5 px-3 w-full text-center">
       <a href="#payment">
         <button
-          class="shadow-lg rounded-md w-full border-hgreen border-2 px-4 bg-hblue py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
+          class="shadow-lg rounded-md w-full border-green-100 border-2 px-4 bg-hgreen py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
           Get the HBP Reserval Plan Now<br />
           <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
@@ -578,7 +585,7 @@
       <img src="../assets/img/eazifit-logotype.svg" class="mx-auto w-1/3" />
     </div>
 
-    <section id="who-book-for" class="text-gray-900 mt-8 px-2">
+    <section id="payment" class="text-gray-900 mt-8 px-2">
       <h2 class="font-semibold text-2xl text-center px-4">
         Use the Payment Methods Below to Begin your Purchase
       </h2>
@@ -641,7 +648,7 @@
           </a>
         </div>
 
-        <div class="mt-3 text-center w-3/4 mx-auto">
+        <!-- <div class="mt-3 text-center w-3/4 mx-auto">
           <button
             v-on:click="fwaveHidden = !fwaveHidden"
             class="mt-6 border-2 font-semibold bg-hgreen text-white text-xl border-hgreen w-full rounded-lg px-2 py-3"
@@ -702,9 +709,9 @@
               Complete Payment
             </paystack>
           </form>
-        </div>
+        </div> -->
 
-        <div class="mt-3 text-center w-3/4 mx-auto">
+        <div class="mt-2 text-center w-3/4 mx-auto">
           <a href="https://selar.co/ydho">
             <button
               class="mt-6 border-2 font-semibold bg-yellow-600 text-white text-xl w-full rounded-lg px-2 py-3"
@@ -728,7 +735,7 @@
 </template>
 
 <script>
-import paystack from "vue-paystack";
+// import paystack from "vue-paystack";
 import axios from "axios";
 
 export default {
@@ -738,7 +745,7 @@ export default {
   name: "Landing",
 
   components: {
-    paystack,
+    // paystack,
   },
 
   data: () => {
@@ -773,6 +780,7 @@ export default {
         .post("https://hbp-be.herokuapp.com/order", {
           fullname: this.fullname,
           phone: this.phone,
+          email: this.email,
         })
         .then(() => {
           console.log("sent");
