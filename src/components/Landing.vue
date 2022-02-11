@@ -133,6 +133,12 @@
           But it doesn't have to be difficult. We have made it so easy that anyone can follow and practice.
           <br />
           <br />
+          We discovered and created the HBP Reserval Plan from years of research, experience and proven results.
+          <br />
+          <br />
+          This HBP Reserval Plan involves a daily guide of specific activities and exercises, accompanied with nutritional guide that is extremely simple to follow. Yet it is very effective.
+          <br />
+          <br />
           And we want to expose this secret to those who are willing to take action and put this terrible condition behind them.
         </p>
       </div>
