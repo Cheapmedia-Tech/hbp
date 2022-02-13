@@ -20,7 +20,7 @@
     <section id="hero-section">
       <div class=" px-3 mt-4 text-center  mx-auto">
         <img
-          src="https://res.cloudinary.com/letroot/image/upload/q_69/v1644576131/hbp/lp-banner_oneman.webp"
+          src="https://res.cloudinary.com/letroot/image/upload/q_72/v1644727266/hbp/lp-banner_lsjy9l.webp"
           alt="hbp-banner"
           class="mx-auto"
         />
@@ -432,7 +432,7 @@
 
       <div class=" px-3 mt-4 text-center  mx-auto">
         <img
-          src="https://res.cloudinary.com/letroot/image/upload/q_20/v1644571451/hbp/eazifit-ipad-book-interior_l1cfpq.webp"
+          src="https://res.cloudinary.com/letroot/image/upload/e_blur:100,q_63/v1644571451/hbp/eazifit-ipad-book-interior_l1cfpq.webp"
           alt="hbp-exercises"
           class="mx-auto w-2/3"
         />
@@ -593,7 +593,11 @@
 
     <section id="payment" class="text-gray-900 mt-8 px-2">
       <h2 class="font-semibold text-2xl text-center px-4">
-        Use the Payment Methods Below to Begin your Purchase
+        PAY FOR THE HBP REVERSAL PLAN NOW AT NGN3,000 (BEFORE DISCOUNT RUNS OUT)
+      </h2>
+
+      <h2 class="mt-2 font-medium w-3/4 mx-auto text-xl text-center px-4">
+        Use any of these payment methods to Get the HBP Reversal Plan right now
       </h2>
 
       <section id="#payment-openers" class="text-center">
@@ -643,13 +647,15 @@
             Copy Account Number
           </button>
 
-          <a href="https://wa.me/2349058337546/?text=I%20have%20paid%20for%20%22Easiest%20and%20Fastest%20Way%20to%20Lower%20your%20Blood%20Pressure.%22%20Find%20my%20proof%20of%20payment%20below.">
+          <a href="https://wa.me/2349058337546/?text=I%20have%20paid%20for%20the%20HBP%20Reversal%20Plan%20by%20bank%20transfer%20and%20here%20is%20my%20proof%20of%20payment%20below">
             <button
               class="mt-3 shadow-lg rounded-md w-11/12 text-sm px-2 bg-green-400 py-3 text-white text-center font-medium uppercase tracking-wide"
               type="submit"
               id="whatsapp-btn"
             >
               Send proof of payment to WhatsApp
+              <br>
+              <span class="text-lg">(0905 833 7546)</span>
             </button>
           </a>
         </div>
