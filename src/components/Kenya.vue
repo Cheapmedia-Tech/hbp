@@ -593,7 +593,7 @@
 
     <section id="payment" class="text-gray-900 mt-8 px-2">
       <h2 class="font-semibold text-2xl text-center px-4">
-        PAY FOR THE HBP REVERSAL PLAN NOW AT KSH 1,000 (BEFORE DISCOUNT RUNS OUT)
+        PAY FOR THE HBP REVERSAL PLAN NOW AT KSH 1,500 (BEFORE DISCOUNT RUNS OUT)
       </h2>
 
       <h2 class="mt-2 font-medium w-3/4 mx-auto text-xl text-center px-4">
