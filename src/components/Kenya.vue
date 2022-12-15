@@ -20,7 +20,7 @@
     <section id="hero-section">
       <div class=" px-3 mt-4 text-center  mx-auto">
         <img
-          src="https://res.cloudinary.com/letroot/image/upload/q_72/v1644727266/hbp/lp-banner_lsjy9l.webp"
+          src="https://res.cloudinary.com/dq6iuhnpr/image/upload/v1671092568/hbp/kenya-uganda/kenya-banner_ru2bzk.png"
           alt="hbp-banner"
           class="mx-auto"
         />
