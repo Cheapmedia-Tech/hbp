@@ -32,7 +32,7 @@
             class="shadow-lg rounded-md w-full border-green-100 border-2 px-4 bg-hgreen py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
           >
             Get the HBP Reserval Plan Now<br />
-            <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
+            <!-- <span class="text-xs">(for just KSH 1,500)</span> -->
           </button>
         </a>
       </div>
@@ -74,19 +74,19 @@
           But you can claim our special offer right now and you will get:
           <br />
           <br />
-          <span class="font-semibold">1. 70% Discount from the original price of NGN 10,000 and pay only NGN 3,000</span>
+          <span class="font-semibold">1. 70% Discount from the original price of KSH 5,000 and pay only KSH 1,500</span>
           <br />
           <br />
-          <span class="font-semibold">2. You get a free bonus videos that explains to show you the practice of this HBP Reserval Plan worth NGN 5,000</span>
+          <span class="font-semibold">2. You get a free bonus videos that explains to show you the practice of this HBP Reserval Plan worth KSH 3,000</span>
           <br />
           <br />
-          <span class="font-semibold">3. A free bonus of a Comprehensive Nutritional Plan that is worth NGN 5,000</span>
+          <span class="font-semibold">3. A free bonus of a Comprehensive Nutritional Plan that is worth KSH 4,000</span>
           <br />
           <br />
           <span class="font-semibold">4. A total Money Back Guarantee if you purchase this and you don't see a total reversal of HBP.</span>
 <br />
           <br />
-          <span class="text-hblue font-semibold text-center text-xl block">Get all the above just for a one time discounted price of NGN 3000 right now.</span>
+          <span class="text-hblue font-semibold text-center text-xl block">Get all the above just for a one time discounted price of KSH 1,500 right now.</span>
         </span>
       </div>
     </section>
@@ -103,7 +103,7 @@
               class="shadow-lg rounded-md w-full border-green-100 border-2 px-4 bg-hgreen py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
             >
               Get the HBP Reserval Plan Now<br />
-              <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
+              <!-- <span class="text-xs">(for just KSH 1,500)</span> -->
             </button>
           </a>
         </div>
@@ -149,7 +149,7 @@
               class="shadow-lg rounded-md w-full border-green-100 border-2 px-4 bg-hgreen py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
             >
               Get the HBP Reserval Plan Now<br />
-              <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
+              <!-- <span class="text-xs">(for just KSH 1,500)</span> -->
             </button>
           </a>
         </div>
@@ -235,7 +235,7 @@
               class="shadow-lg rounded-md w-full border-green-100 border-2 px-4 bg-hgreen py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
             >
               Get the HBP Reserval Plan Now<br />
-              <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
+              <!-- <span class="text-xs">(for just KSH 1,500)</span> -->
             </button>
           </a>
         </div>
@@ -404,12 +404,12 @@
         <br />
 
         <span class="font-medium text-hblue text-2xl"
-          >Just NGN 3,000 for something that works.</span
+          >Just KSH 1,500 for something that works.</span
         >
         <br />
         <br />
 
-        Not NGN 10,000 above for many fake products that don't work.
+        Not KSH 10,000 above for many fake products that don't work.
         <br />
         <br />
 
@@ -523,7 +523,7 @@
           class="shadow-lg rounded-md w-full border-green-100 border-2 px-4 bg-hgreen py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
           Get the HBP Reserval Plan Now<br />
-          <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
+          <!-- <span class="text-xs">(for just KSH 1,500)</span> -->
         </button>
       </a>
     </div>
@@ -579,7 +579,7 @@
           class="shadow-lg rounded-md w-full border-green-100 border-2 px-4 bg-hgreen py-5 text-white text-center font-semibold uppercase text-base leading-tight tracking-wide"
         >
           Get the HBP Reserval Plan Now<br />
-          <!-- <span class="text-xs">(for just NGN 3,000)</span> -->
+          <!-- <span class="text-xs">(for just KSH 1,500)</span> -->
         </button>
       </a>
     </div>
@@ -593,7 +593,7 @@
 
     <section id="payment" class="text-gray-900 mt-8 px-2">
       <h2 class="font-semibold text-2xl text-center px-4">
-        PAY FOR THE HBP REVERSAL PLAN NOW AT NGN3,000 (BEFORE DISCOUNT RUNS OUT)
+        PAY FOR THE HBP REVERSAL PLAN NOW AT KSH 1,000 (BEFORE DISCOUNT RUNS OUT)
       </h2>
 
       <h2 class="mt-2 font-medium w-3/4 mx-auto text-xl text-center px-4">

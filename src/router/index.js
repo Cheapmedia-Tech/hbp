@@ -1,6 +1,8 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import Landing from "@/components/Landing.vue";
+import Kenya from "@/components/Kenya.vue";
+import Uganda from "@/components/Uganda.vue";
 import Payment from "@/components/Payment.vue";
 import ThankYou from "@/components/ThankYou.vue";
 import Watch from "@/components/Watch.vue";
@@ -18,6 +20,24 @@ export default new VueRouter({
       path: "/",
       name: "Home",
       component: Landing,
+      meta: {
+        title:
+          "The Easiest and Fastest Way to Lower Your Blood Pressure :: Eazifit",
+      },
+    },
+    {
+      path: "/kny",
+      name: "Kenya",
+      component: Kenya,
+      meta: {
+        title:
+          "The Easiest and Fastest Way to Lower Your Blood Pressure :: Eazifit",
+      },
+    },
+    {
+      path: "/ug",
+      name: "Uganda",
+      component: Uganda,
       meta: {
         title:
           "The Easiest and Fastest Way to Lower Your Blood Pressure :: Eazifit",
