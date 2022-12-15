@@ -77,11 +77,8 @@
           <span class="font-semibold">1. 70% Discount from the original price of KSH 5,000 and pay only KSH 1,500</span>
           <br />
           <br />
-          <span class="font-semibold">2. You get a free bonus videos that explains to show you the practice of this HBP Reserval Plan worth KSH 3,000</span>
-          <br />
-          <br />
-          <span class="font-semibold">3. A free bonus of a Comprehensive Nutritional Plan that is worth KSH 4,000</span>
-          <br />
+          <span class="font-semibold">2. You get a free bonus video that explains to show you the practice of this HBP Reserval Plan worth KSH 3,000</span>
+         
           <br />
           <span class="font-semibold">4. A total Money Back Guarantee if you purchase this and you don't see a total reversal of HBP.</span>
 <br />

@@ -76,7 +76,7 @@
           <span class="font-semibold">1. 70% Discount from the original price of USH 150,000 and pay only USH 45,000</span>
           <br />
           <br />
-          <span class="font-semibold">2. You get a free bonus videos that explains to show you the practice of this HBP Reserval Plan worth USH 20,000</span>
+          <span class="font-semibold">2. You get a free bonus video that explains to show you the practice of this HBP Reserval Plan worth USH 20,000</span>
           <br />
           <br />
          
