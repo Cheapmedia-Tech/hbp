@@ -480,7 +480,7 @@
         <img src="../assets/img/coach-john.png" class="w-1/3 mx-auto" alt="" />
       </div> -->
       <h2 class="font-semibold text-2xl">
-        Get these <span class="text-hgreen">FREE Bonuses</span> when you buy the
+        Get  <span class="text-hgreen">FREE Exercise Video </span> when you buy the
         Book:
       </h2>
 
@@ -492,24 +492,7 @@
         />
       </div>
 
-      <div class="mt-4 text-lg">
-        <p class="font-semibold text-lg text-center px-8">
-          <img src="../assets/img/svg/video.svg" class="mx-auto" alt="" />
-          Explanatory Videos
-          <br />
-          <br />
-          <img src="../assets/img/svg/eat.svg" class="mx-auto" alt="" />
-          A Comprehensive Nutrition Guide for beating HBP
-          <br />
-          <br />
-          <img src="../assets/img/svg/myth.svg" class="mx-auto" alt="" />
-
-          HBP Fitness Myth Busters
-          <SPAN class="block text-hgreen mt-3 text-2xl">
-            100% MONEY BACK GUARANTEE
-          </SPAN>
-        </p>
-      </div>
+      
     </section>
 
     <div class="py-6 px-3 w-full text-center">
@@ -589,10 +572,6 @@
     <section id="payment" class="text-gray-900 mt-8 px-2">
       <h2 class="font-semibold text-2xl text-center px-4">
         PAY FOR THE HBP REVERSAL PLAN NOW AT USH 45,000 (BEFORE DISCOUNT RUNS OUT)
-      </h2>
-
-      <h2 class="mt-2 font-medium w-3/4 mx-auto text-xl text-center px-4">
-        Use any of these payment methods to Get the HBP Reversal Plan right now
       </h2>
 
       <section id="#payment-openers" class="text-center">
@@ -723,7 +702,7 @@
             <button
               class="mt-6 border-2 font-semibold bg-yellow-600 text-white text-xl w-full rounded-lg px-2 py-3"
             >
-              Pay with Selar
+              Buy Now
             </button>
           </a>
         </div>
